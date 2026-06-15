@@ -54,52 +54,89 @@ badal = {
 
 ---
 
-## 📁 Featured Projects
+# 📁 Featured Projects
 
-> 💡 *Each project here reflects a real data problem I explored, cleaned, and visualized.*
-
----
-
-### 📌 1. Sales Performance Analysis
-**Tools:** Python · Pandas · Matplotlib · Excel
-
-- Cleaned and analyzed 10,000+ rows of retail sales data
-- Identified top-performing products and seasonal trends
-- Built clear bar charts and trend lines to communicate findings
-
-🔗 [View Project](#)
+> 💡 *Each project reflects a real-world business problem solved through data cleaning, analysis, visualization, and actionable insights.*
 
 ---
 
-### 📌 2. Customer Segmentation Dashboard
-**Tools:** Python · Seaborn · Power BI
+## 📌 1. Vrinda Store Annual Sales Analysis
 
-- Performed EDA on customer purchase history
-- Grouped customers by spending patterns using descriptive statistics
-- Created an interactive Power BI dashboard for business stakeholders
+**Tools:** Microsoft Excel · Pivot Tables · Charts · Data Cleaning
 
-🔗 [View Project](#)
+- Performed end-to-end sales analysis on **28,663 orders** totaling **₹1,95,54,344**.
+- Cleaned raw sales data, removed duplicates, and resolved inconsistent entries.
+- Engineered **Age Group** and **Month** columns for customer segmentation.
+- Built an interactive Excel dashboard using **Pivot Tables, Pivot Charts, and Slicers**.
+- Identified key revenue drivers across customer demographics, states, and sales channels.
+- **Key Insight:** Women aged **30–49** from **Maharashtra, Karnataka, and Uttar Pradesh** purchasing through **Amazon, Myntra, and Flipkart** generated the highest sales revenue.
 
----
-
-### 📌 3. SQL Data Exploration – [Dataset Name]
-**Tools:** MySQL
-
-- Wrote complex queries using JOINs, GROUP BY, and subqueries
-- Extracted KPIs like revenue per region and monthly growth rate
-- Documented all queries with clear comments for reproducibility
-
-🔗 [View Project](#)
+🔗 **Repository:** https://github.com/badal-cloud-developer/Vrinda-Store-Annual-Sales-Analysis-2022
 
 ---
 
-## 🌱 Currently Learning
+## 📌 2. E-Commerce Sales Dashboard
 
-- 📐 Statistics for Data Analysis
-- 🤖 Introduction to Machine Learning (Scikit-learn)
-- 🎨 Advanced Power BI — DAX & Data Modeling
+**Tools:** Power BI · DAX · Data Modeling
+
+- Built an interactive Power BI dashboard to analyze online sales performance.
+- Implemented data modeling using table relationships and DAX calculations.
+- Developed drill-down analysis with dynamic filters and slicers.
+- Created multiple visualizations including:
+  - Bar Charts
+  - Pie Charts
+  - Donut Charts
+  - Line Charts
+  - Scatter Plots
+  - Area Charts
+  - Maps
+  - Slicers
+- Enabled stakeholders to monitor sales trends and business performance efficiently.
+
+🔗 **Repository:** https://github.com/badal-cloud-developer/01_powerBI_Project_Ecommerce-Sales-Dashboard
 
 ---
+
+## 📌 3. Customer Shopping Behaviour Analysis
+
+**Tools:** Python · Pandas · PostgreSQL · Power BI
+
+- Analyzed **3,900 customer transactions** to uncover purchasing patterns and customer behavior.
+- Conducted Exploratory Data Analysis (EDA) using Python and Pandas.
+- Handled missing values and engineered features such as:
+  - `age_group`
+  - `purchase_frequency_days`
+- Executed **10 structured SQL queries** in PostgreSQL for business insights.
+- Built a Power BI dashboard tracking key metrics:
+  - 3,900 Customers
+  - $59.76 Average Purchase Value
+  - 3.75 Average Customer Rating
+- **Key Insight:** Approximately **73% of customers were non-subscribers**, representing a significant opportunity for subscription growth.
+
+🔗 **Repository:** https://github.com/badal-cloud-developer/customer_shopping_behaviour_analysis
+
+---
+
+## 📌 4. Hospital Emergency Room Dashboard
+
+**Tools:** Power BI · DAX · Data Modeling · Data Cleaning
+
+- Designed a comprehensive **4-view Power BI dashboard**:
+  - Monthly View
+  - Consolidated View
+  - Patient Details
+  - Key Takeaways
+- Analyzed Emergency Room operations and patient flow.
+- Tracked key healthcare KPIs including:
+  - Total Patient Count
+  - Average Wait Time
+  - Patient Satisfaction Score
+  - Department Referrals
+- Utilized area sparklines and interactive visuals for trend monitoring.
+- Delivered actionable insights to support operational decision-making and improve patient experience.
+
+🔗 **Repository:** https://github.com/badal-cloud-developer/Hospital-Emergency-room-dashboard
+
 
 ## 💬 Let's Connect
 
