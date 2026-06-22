@@ -138,6 +138,31 @@ badal = {
 🔗 **Repository:** https://github.com/badal-cloud-developer/Hospital-Emergency-room-dashboard
 
 
+## 📌 5.HR Data Analytics Dashboard
+
+-Tools: Power BI · DAX · Excel/CSV
+
+-Built an interactive Power BI dashboard analyzing workforce data, employee attrition trends, and job satisfaction across departments and age groups.
+-Designed key metrics including:
+
+Overall Employees
+Active Employees
+Attrition Count & Attrition Rate
+Average Age
+
+
+-Created visuals such as:
+
+Department-wise attrition (pie chart)
+Employees by age group (column chart)
+Job satisfaction by role (pivot table)
+Attrition by age group across 5 bands — Under 25, 25–34, 35–44, 45–54, Above 55 (donut charts)
+
+
+Built calculated KPIs and measures using DAX, with interactive slicers for dynamic filtering across all visuals.
+-Key Insight: Enabled HR teams to pinpoint high-attrition departments and age groups, supporting data-driven retention and workforce planning decisions.
+
+
 ## 💬 Let's Connect
 
 I'm actively looking for **Data Analyst internships and entry-level opportunities**.  
